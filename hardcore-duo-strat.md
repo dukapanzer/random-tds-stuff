@@ -22,6 +22,11 @@
 2. max out electroshockers, commander and rangers
 3. spam ranger
 
+
+
+
+
+
 # PLAYER 2
 ## wave 0 - 13
 1. place 2 lvl 1 farms
