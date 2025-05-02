@@ -1,6 +1,6 @@
 # LOADOUTs
 ### player 1: DPS, Ranger, Commander, Electroshocker, Farm
-> ## DPS (Damage Per Second) towers can be:
+> DPS (Damage Per Second) towers can be:
 > brawler/pursuit/gatling/engineer/accelerator
 ### player 2: DPS, Ranger, DJ, Militant, Farm
 
