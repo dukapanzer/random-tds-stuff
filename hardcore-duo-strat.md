@@ -18,7 +18,8 @@
 4. place 3 commanders lvl 2 (front)
 ## wave 31 - 50
 1. place 6 max brawlers (front)
-> chain brawler ability
+> spam reposition (brawler ability)
+2. place 7 rangers lvl 2
 2. max out electroshockers, commander and rangers
 3. spam ranger
 ## TOWER PLACEMENT
@@ -29,12 +30,12 @@
 1. place 2 lvl 1 farms
 2. place 2 lvl 2 farms
 > upgrade 1 farm to lvl 2
-3. place 2 militants with lvl 1 (back)
+3. place 2 militants lvl 1 (back)
 > upgrade 1 militant to lvl 2
 ## wave 13 - 32
-1. get 8 farms with lvl 3
-2. get 4 militants with lvl 3 (back)
-3. place 1 DJ with lvl 3
+1. get 8 farms lvl 3
+2. get 4 militants lvl 3 (back)
+3. place 1 DJ lvl 3
 > set track to green, and spam the ability
 4. place 6 militants lvl 3 (front)
 ## wave 32 - 50
