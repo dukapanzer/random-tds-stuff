@@ -40,8 +40,11 @@
 2. get 4 militants lvl 3 (back)
 3. place 1 DJ lvl 3
 > set track on green, and spam the ability
+
 > set track on red on waves 36 and 41-50
+
 > set track on green on waves 37 - 40
+
 4. place 6 militants lvl 3 (front)
 ## wave 32 - 50
 ### do not skip waves 34, 35, 36, 45, 46
