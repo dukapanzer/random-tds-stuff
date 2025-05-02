@@ -21,11 +21,8 @@
 > chain brawler ability
 2. max out electroshockers, commander and rangers
 3. spam ranger
-
-
-
-
-
+# TOWER PLACEMENT
+![Player 1](https://github.com/user-attachments/assets/6c0cab42-1e79-45a1-ae14-ef74a3b969ed)
 
 # PLAYER 2
 ## wave 0 - 13
@@ -45,8 +42,5 @@
 2. get 11 max militants
 > max out rangers too
 3. spam turret/militants (front)
-
 # TOWER PLACEMENT
-
-![Player 1](https://github.com/user-attachments/assets/6c0cab42-1e79-45a1-ae14-ef74a3b969ed)
 ![Player 2](https://github.com/user-attachments/assets/f86ed327-5cf4-4450-b4de-94538884d2bf)
