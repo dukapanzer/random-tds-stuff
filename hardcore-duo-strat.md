@@ -8,7 +8,10 @@
 ## wave 0 - 16
 1. place 1 farm lvl 1
 2. place 1 electroshocker lvl 1 (back)
-3. get 4 farms with lvl 2
+### electroshocker placement
+![image](https://github.com/user-attachments/assets/f7858aef-ad5b-4bf2-8a26-1a122f3ee61f)
+
+4. get 4 farms with lvl 2
 > upgrade electroshocker to lvl 3
 ## wave 16 - 31
 1. get 8 farms with lvl 3
