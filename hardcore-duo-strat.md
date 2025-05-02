@@ -36,12 +36,16 @@
 1. get 8 farms lvl 3
 2. get 4 militants lvl 3 (back)
 3. place 1 DJ lvl 3
-> set track to green, and spam the ability
+> set track on green, and spam the ability
+> set track on red on waves 36 and 41-50
+> set track on green on waves 37 - 40
 4. place 6 militants lvl 3 (front)
 ## wave 32 - 50
+### do not skip waves 34, 35, 36, 45, 46
 1. place 5 rangers lvl 2
-2. get 11 max militants
-> max out rangers too
-3. spam turret/militants (front)
+> max out the DJ
+3. get 11 max militants
+> also get 7 max rangers
+3. spam dps/militants (front)
 ## TOWER PLACEMENT
 ![Player 2](https://github.com/user-attachments/assets/f86ed327-5cf4-4450-b4de-94538884d2bf)
