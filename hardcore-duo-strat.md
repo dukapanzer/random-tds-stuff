@@ -20,6 +20,7 @@
 3. place 4 electroshockers lvl 4 (front)
 4. place 3 commanders lvl 2 (front)
 ## wave 31 - 50
+# do not skip waves 34, 35, 36, 45, 46
 1. place 6 max brawlers (front)
 > spam reposition (brawler ability)
 2. place 7 rangers lvl 2
@@ -47,7 +48,7 @@
 
 4. place 6 militants lvl 3 (front)
 ## wave 32 - 50
-### do not skip waves 34, 35, 36, 45, 46
+# do not skip waves 34, 35, 36, 45, 46
 1. place 5 rangers lvl 2
 > max out the DJ
 3. get 11 max militants
