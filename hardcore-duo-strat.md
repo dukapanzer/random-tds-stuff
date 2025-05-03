@@ -59,4 +59,5 @@
 # death reasons:
 ## hidden boss:
 > player 1 didn't get 4 electroshockers in the front with level 4
+> 
 > player 1 didn't activate commander ability
