@@ -6,7 +6,7 @@
 
 # PLAYER 1
 ## waves 0 - 16
-- 1. place 1 lvl 1 farm
+  1. place 1 lvl 1 farm
 - 2. place 1 lvl 1 back electro
 - 3. get 4 lvl 2 farms
 > upgrade electro to lvl 3
