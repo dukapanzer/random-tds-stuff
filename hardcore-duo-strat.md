@@ -55,3 +55,8 @@
 3. spam dps/militants (front)
 ## TOWER PLACEMENT
 ![Player 2](https://github.com/user-attachments/assets/f86ed327-5cf4-4450-b4de-94538884d2bf)
+
+# death reasons:
+## hidden boss:
+> player 1 didn't get 4 electroshockers in the front with level 4
+> player 1 didn't activate commander ability
