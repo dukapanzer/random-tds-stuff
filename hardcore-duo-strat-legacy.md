@@ -20,9 +20,9 @@
 3. place 4 electroshockers lvl 4 (front)
 4. place 3 commanders lvl 2 (front)
 ## wave 31 - 50
-1. place 6 max brawlers (front)
-> spam reposition (brawler ability)
-2. place 7 rangers lvl 2
+1. place 7 rangers lvl 2
+2. place maxed out dps and max dps placement limit
+> if dps is Brawler then use reposition all the time
 2. max out electroshockers, commander and rangers
 3. spam ranger
 ## TOWER PLACEMENT
