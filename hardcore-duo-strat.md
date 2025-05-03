@@ -20,8 +20,8 @@
 3. place 4 electroshockers lvl 4 (front)
 4. place 3 commanders lvl 2 (front)
 ## wave 31 - 50
-# do not skip waves 34, 35, 36, 45, 46
-1. place 6 max brawlers (front)
+# DO NOT SKIP WAVES 34, 35, 36, 45, 46
+1. place maxed out DPS (front)
 > spam reposition (brawler ability)
 2. place 7 rangers lvl 2
 2. max out electroshockers, commander and rangers
@@ -48,7 +48,7 @@
 
 4. place 6 militants lvl 3 (front)
 ## wave 32 - 50
-# do not skip waves 34, 35, 36, 45, 46
+# DO NOT SKIP WAVES 34, 35, 36, 45, 46
 1. place 5 rangers lvl 2
 > max out the DJ
 3. get 11 max militants
@@ -58,7 +58,9 @@
 ![Player 2](https://github.com/user-attachments/assets/f86ed327-5cf4-4450-b4de-94538884d2bf)
 
 # death reasons:
-## hidden boss:
+## shadow boss:
 > player 1 didn't get 4 electroshockers in the front with level 4
 > 
 > player 1 didn't activate commander ability
+## grave digger:
+> a player skipped wave 34/35/36
