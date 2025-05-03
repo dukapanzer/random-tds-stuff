@@ -46,7 +46,7 @@
 ## waves 32 - 50
 1. place 5 lvl 2 rangers
 ### delete back defense on wave 37
-     > max out DJ
+   > max out DJ
 2. get 11 max militants and 7 max rangers
 3. spam DPS and militants, place stunbait militants
 
