@@ -8,18 +8,18 @@
 
 # player 1:
 ## waves 1 - 14
-### - place a lvl 0 brawler
-- place a lvl 2 farm
-- upgrade the brawler level to lvl 1
-- place a lvl 1 farm
-- place a lvl 0 brawler
-- upgrade the lvl 1 farm to lvl 2
-- get a total of 6 lvl 1 brawlers
-- place 3 lvl 2 farms
-- upgrade all brawlers to lvl 2
-- get a total of 8 lvl 3 farms
-### - upgrade all brawlers to lvl 3
-> upgrade one brawler to lvl 4 and set its targetting to strongest
+#### 1. place a lvl 0 brawler
+#### 2. place a lvl 2 farm
+#### 3. upgrade the brawler level to lvl 1
+#### 4. place a lvl 1 farm
+#### 5. place a lvl 0 brawler
+#### 6. upgrade the lvl 1 farm to lvl 2
+#### 7. get a total of 6 lvl 1 brawlers
+#### 8. place 3 lvl 2 farms
+#### 9. upgrade all brawlers to lvl 2
+#### 10. get a total of 8 lvl 3 farms
+#### 11. upgrade all brawlers to lvl 3
+#### last step | upgrade one brawler to lvl 4 and set its targetting to strongest
 
 ## waves 15-29
 ### - place 3 lvl 0 mercenary bases
