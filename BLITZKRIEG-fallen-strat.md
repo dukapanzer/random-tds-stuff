@@ -12,7 +12,7 @@
 #### 2. place a lvl 2 farm
 #### 3. upgrade the brawler level to lvl 1
 #### 4. place a lvl 1 farm
-##### 5. place a lvl 0 brawler
+###### 5. place a lvl 0 brawler
 #### 6. upgrade the lvl 1 farm to lvl 2
 #### 7. get a total of 6 lvl 1 brawlers
 #### 8. place 3 lvl 2 farms
