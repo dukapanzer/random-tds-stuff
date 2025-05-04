@@ -20,6 +20,8 @@
 3. place 4 electroshockers lvl 4 (front)
 4. place 3 commanders lvl 2 (front)
 ## wave 31 - 50
+> [!WARNING]
+> DO NOT SKIP WAVES 34, 35, 36, 45, 46
 1. place 7 rangers lvl 2
 2. place maxed out dps and max dps placement limit
 > if dps is Brawler then use reposition all the time
