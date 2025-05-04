@@ -1,8 +1,8 @@
 # blitzkrieg strat :skull:
 
 # loadouts:
-- player 1 (level 75+): ace, minigunner, mortar, commander, dj
-- player 2 (level 150+): brawler, farm, mortar, merc base, engineer
+#### - player 1 (level 75+): ace, minigunner, mortar, commander, dj
+#### - player 2 (level 150+): brawler, farm, mortar, merc base, engineer
 
 # strategy:
 
