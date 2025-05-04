@@ -4,8 +4,10 @@
 #### - player 1 (level 75+): ace, minigunner, mortar, commander, dj
 #### - player 2 (level 150+): brawler, farm, mortar, merc base, engineer
 
-# strategy:
+# placement map:
+![image](https://github.com/user-attachments/assets/301af549-6d7e-4643-b5e9-add241c1524f)
 
+# strategy:
 # player 1:
 ## waves 1 - 14
 ##### 1. place a lvl 0 brawler
