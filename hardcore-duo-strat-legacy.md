@@ -53,8 +53,7 @@
 > DO NOT SKIP WAVES 34, 35, 36, 45, 46
 1. place 5 rangers lvl 2
 > max out the DJ
-3. get 11 max militants
-> also get 7 max rangers
+3. get 11 max militants, or 7 max rangers
 3. spam dps/militants (front)
 ## TOWER PLACEMENT
 ![Player 2](https://github.com/user-attachments/assets/f86ed327-5cf4-4450-b4de-94538884d2bf)
