@@ -19,10 +19,10 @@
 - upgrade all brawlers to lvl 2
 - get a total of 8 lvl 3 farms
 - upgrade all brawlers to lvl 3
-  > upgrade one brawler to lvl 4 and set its targetting to strongest
+> upgrade one brawler to lvl 4 and set its targetting to strongest
 
 ## waves 15-29
-- place 3 lvl 0 mercenary bases
+### - place 3 lvl 0 mercenary bases
   >
   > upgrade one mercenary base to lvl 2
   > upgrade another mercenary base to lvl 3
