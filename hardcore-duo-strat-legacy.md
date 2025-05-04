@@ -48,7 +48,7 @@
 4. place 6 militants lvl 3 (front)
 ## wave 32 - 50
 > [!WARNING]
-> do not skip waves 34, 35, 36, 45, 46
+> # DO NOT SKIP WAVES 34, 35, 36, 45, 46
 1. place 5 rangers lvl 2
 > max out the DJ
 3. get 11 max militants
