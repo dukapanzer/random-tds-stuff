@@ -8,7 +8,7 @@
 
 # player 1:
 ## waves 1 - 14
-- place a lvl 0 brawler
+### - place a lvl 0 brawler
 - place a lvl 2 farm
 - upgrade the brawler level to lvl 1
 - place a lvl 1 farm
@@ -18,7 +18,7 @@
 - place 3 lvl 2 farms
 - upgrade all brawlers to lvl 2
 - get a total of 8 lvl 3 farms
-- upgrade all brawlers to lvl 3
+### - upgrade all brawlers to lvl 3
 > upgrade one brawler to lvl 4 and set its targetting to strongest
 
 ## waves 15-29
