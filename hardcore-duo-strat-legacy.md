@@ -33,7 +33,7 @@
 # PLAYER 2
 ## wave 0 - 13
 1. place 2 lvl 1 farms
-2. place 2 lvl 2 farms
+2. place 2 lvl 2 farms, 1 by 1
 > upgrade 1 farm to lvl 2
 3. place 2 militants lvl 1 (back)
 > upgrade 1 militant to lvl 2
