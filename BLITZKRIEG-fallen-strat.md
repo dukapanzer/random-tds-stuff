@@ -23,6 +23,7 @@
 
 ## waves 15-29
 - place 3 lvl 0 mercenary bases
+  >
   > upgrade one mercenary base to lvl 2
   > upgrade another mercenary base to lvl 3
   > upgrade another mercenary base to lvl 6
