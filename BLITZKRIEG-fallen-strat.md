@@ -19,10 +19,10 @@
 #### 9. upgrade all brawlers to lvl 2
 #### 10. get a total of 8 lvl 3 farms
 #### 11. upgrade all brawlers to lvl 3
-#### last step | upgrade one brawler to lvl 4 and set its targetting to strongest
+#### last step. upgrade one brawler to lvl 4 and set its targetting to strongest
 
 ## waves 15-29
-### - place 3 lvl 0 mercenary bases
+#### - place 3 lvl 0 mercenary bases
   > upgrade one mercenary base to lvl 2
   > upgrade another mercenary base to lvl 3
   > upgrade another mercenary base to lvl 6
@@ -31,13 +31,13 @@
   > use 1 field medic + all riot guards for waves 34-36 & 39+
 
 ## waves 30-39
-- max 5 mortars 1 by 1 on Random targeting
-- upgrade all Brawlers to lvl 4
+#### 1. max 5 mortars 1 by 1 on Random targeting
+#### 2. upgrade all Brawlers to lvl 4
   > target templars with brawler's reposition ability for waves 35+, reposition them to clear the fallen jesters that spawn around the end of wave 39
-- max engineers -» brawlers
+#### 3. max engineers -» brawlers
   > wait until you have 50k before placing each Engineer
   
 ## wave 40
-- follow the fallen king with the brawlers
-- perform mercenary base micro away from the path
+#### 1. follow the fallen king with the brawlers
+#### 2. perform mercenary base micro away from the path
   > this prevents air-dropped units from immediatly dying
