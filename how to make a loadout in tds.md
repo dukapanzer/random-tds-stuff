@@ -2,51 +2,80 @@
 # TRUE DPS of maxed out towers from best to worst (this means including the units they spawn such as engineer sentries, explosions or whatever are there in the game)
 ## gatling gun (after new nerf)
 - 833.3 DPS
+- hidden detection on lvl 0 (if controlled by player)
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 1750 DPS. this is by far the best DPS tower you can get in TDS
 ## 1. turret
 - 458 DPS
+- hidden detection on lvl 1
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 962.5 DPS.
 ## 2. engineer
 - engineer: 406.4 DPS
+- hidden detection on lvl 2
+- hidden detection on lvl 5 (sentries)
+- lead detection on lvl 0 (tower & splash only)
+- flying detection on lvl 2 (tower only)
+- stun immune on level 4 (units with shield only)
 - what to do to make it better:
 - you can't really do anything to improve this tower, because the sentries cannot be buffed by support towers, but you can support engineer herself.
 ## 3. accelerator
 - 400 dps
+- hidden detection on lvl 1
+- lead detection on lvl 0
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 933.3 DPS.
 ## 4. pursuit
 - 358.3 DPS (only if it has "tri-barrel minigun" upgrade, the "upgraded payload" upgrade has 60 DPS
+- lead detection on lvl 1
+- flying detection on lvl 0
+- stun immune
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 728 DPS.
 ## 4.5 golden minigunner
 - 280 DPS
+- hidden detection on lvl 2
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 653.3 DPS.
 ## 5. warden
 - 175.3 DPS
+- hidden detection on level 1
+- stun immune on lvl 4 (with cooldown)
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 322 DPS.
 ## 5.5 ranger
 - 175 DPS + explosive impact = 300 DPS
+- lead detection on lvl 0
+- flying detection on lvl 0
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 465 DPS.
 ## 6. brawler
 - 170 DPS
+- hidden detection on lvl 2
+- lead detection on lvl 0
+- pierces enemies on lvl 3
+- stun immune
 - what to do to make it better:9.
 - using commander, dj and mercenary base will give it 360 DPS.
 ## 7. ace pilot
 - 140 DPS
+- hidden detection on lvl 4
+- lead detection on lvl 2
+- flying detection on lvl 0
+- stun immune
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 326.6 DPS.
 ## 8. gladiator
 - 80 DPS (idk why this is listed, this tower is COOKED)
 - what to do to make it better:
+- hidden detection on lvl 2
+- stun immune (with cooldown)
 - using commander + dj and warrior's call will give 177.7 DPS (optional: use mercenary base near gladiator to get 207.4 DPS)
 - spam it
 ## 9. militant
 - 80 DPS (cooked aswell)
+- hidden detection on lvl 1
+- flying detection on lvl 1
 - what to do to make it better:
 - using commander + dj will give 144 DPS
 - spam it
