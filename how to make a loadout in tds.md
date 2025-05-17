@@ -1,6 +1,6 @@
 # FIRST you need to learn what towers are the best:
 # TRUE DPS of maxed out towers from best to worst (this means including the units they spawn such as engineer sentries, explosions or whatever are there in the game)
-## gatling gun (after new nerf)
+## 0. gatling gun (after new nerf)
 - 833.3 DPS
 - hidden detection on lvl 0 (if controlled by player)
 - what to do to make it better:
