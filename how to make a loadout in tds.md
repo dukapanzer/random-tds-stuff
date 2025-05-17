@@ -83,3 +83,4 @@ engineer: 406.4 DPS
 ## slot 2: dps tower (such as turret, engineer, accelerator, pursuit)
 ## slot 3: sub-dps/support 1 (sometimes you need sub-dps in harder gamemodes, such as fallen, if you can win without sub-dps then procceed to get support) (sub-dps can be: ranger, warden, brawler, golden minigunner and militant) (support can be: commander, mercenary base, toxic gunner, warden, electroshocker, farm)
 ## slot 4: support 2 (such as: dj, mercenary base, toxic gunner, warden, electroshocker, farm)
+## slot 5: support 3 (such as: farm, mercenary baes, toxic gunner, warden, electroshocker, farm)
