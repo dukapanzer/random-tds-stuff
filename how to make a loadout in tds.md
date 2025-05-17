@@ -30,7 +30,7 @@ engineer: 406.4 DPS
 - using commander, dj and mercenary base will give it 465 DPS.
 ## 6. brawler
 - 170 DPS
-- what to do to make it better:
+- what to do to make it better:9.
 - using commander, dj and mercenary base will give it 360 DPS.
 ## 7. ace pilot
 - 140 DPS
@@ -60,3 +60,22 @@ engineer: 406.4 DPS
 ## 3. mercenary base
 - gives a 20% strength buff which can be stacked with DJ's buff
 - can air-drop mercenaries anywhere you choose
+## 4. toxic gunner
+- 87.5 DPS + poison damage = 97.5
+- slows down enemies by 30%
+## 5. warden
+- 175.3 DPS
+- stuns enemies for 2.5 seconds
+- can stun enemies every hit
+- can stun-lock enemies that are not bosses
+## 6. electroshocker
+- 40 DPS
+- stuns enemies for 1.25 seconds
+## 7. farm
+- make money easy
+
+# HOW TO MAKE A LOAD-OUT:
+# slot 1: early game (such as brawler, ace pilot or electroshocker)
+# slot 2: dps tower (such as turret, engineer, accelerator, pursuit)
+# slot 3: sub-dps/support 1 (sometimes you need sub-dps in harder gamemodes, such as fallen, if you can win without sub-dps then procceed to get support) (sub-dps can be: ranger, warden, brawler and militant) (support can be: commander, mercenary base, toxic gunner, warden, electroshocker, farm)
+# slot 4: support 2 (such as: dj, mercenary base, toxic gunner, warden, electroshocker, farm)
