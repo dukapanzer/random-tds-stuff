@@ -49,6 +49,12 @@
 - flying detection on lvl 0
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 465 DPS.
+## 5.6 mortar
+- 66.6 DPS + explosion = 146.6 DPS
+- you may be wondering why is it this rank but mortar is really good, specially for crowd control.
+- lead detection on lvl 0
+- flying detection on lvl 0
+- stun immune
 ## 6. brawler
 - 170 DPS
 - hidden detection on lvl 2
