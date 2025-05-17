@@ -5,7 +5,7 @@
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 1750 DPS. this is by far the best DPS tower you can get in TDS
 # turret
-- 458 DPS
+## - 458 DPS
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 962.5 DPS.
 # engineer
