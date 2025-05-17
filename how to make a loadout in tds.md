@@ -1,44 +1,62 @@
-# FIRST you need to learn good DPS towers:
+# FIRST you need to learn what towers are the best:
 # TRUE DPS of maxed out towers from best to worst (this means including the units they spawn such as engineer sentries, explosions or whatever are there in the game)
 ## gatling gun (after new nerf)
 - 833.3 DPS
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 1750 DPS. this is by far the best DPS tower you can get in TDS
-## turret
+## 1. turret
 - 458 DPS
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 962.5 DPS.
-## engineer
+## 2. engineer
 engineer: 406.4 DPS
 - what to do to make it better:
 - you can't really do anything to improve this tower, because the sentries cannot be buffed by support towers, but you can support engineer herself.
-## accelerator
+## 3. accelerator
 - 400 dps
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 933.3 DPS.
-## pursuit
+## 4. pursuit
 - 358.3 DPS (only if it has "tri-barrel minigun" upgrade, the "upgraded payload" upgrade has 60 DPS
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 728 DPS.
-## warden
+## 5. warden
 - 175.3 DPS
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 322 DPS.
-## brawler
+## 5.5 ranger
+- 175 DPS + explosive impact = 300 DPS
+- what to do to make it better:
+- using commander, dj and mercenary base will give it 465 DPS.
+## 6. brawler
 - 170 DPS
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 360 DPS.
-## ace pilot
+## 7. ace pilot
 - 140 DPS
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 326.6 DPS.
-## gladiator
+## 8. gladiator
 - 80 DPS (idk why this is listed, this tower is COOKED)
 - what to do to make it better:
 - using commander + dj and warrior's call will give 177.7 DPS (optional: use mercenary base near gladiator to get 207.4 DPS)
 - spam it
-## militant
+## 9. militant
 - 80 DPS (cooked aswell)
 - what to do to make it better:
 - using commander + dj will give 144 DPS
 - spam it
+
+# BEST support towers (maxed out):
+## 1. commander
+- gives a 20% fire-rate buff to towers in its range, and 50% fire-rate buff when using call to arms
+- chain to always have a 50% fire-rate buff
+## 2. dj
+- gives a 7.5% discount, 10% damage buff and 12.5% more range to towers in its range (no matter the track)
+- tracks is your focus on the specific modifier, if you want damage, choose red track, if you want cheaper towers, choose green track, if you want more range, choose purple track
+- purple track: gives 25% more range
+- green track: gives a 15% discount
+- red track: gives a 20% damage buff
+## 3. mercenary base
+- gives a 20% strength buff which can be stacked with DJ's buff
+- can air-drop mercenaries anywhere you choose
