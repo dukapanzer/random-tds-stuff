@@ -119,3 +119,17 @@
 ## slot 3: sub-dps/support 1 (sometimes you need sub-dps in harder gamemodes, such as fallen, if you can win without sub-dps then procceed to get support) (sub-dps can be: ranger, warden, brawler, golden minigunner and militant) (support can be: commander, mercenary base, toxic gunner, warden, electroshocker, farm)
 ## slot 4: support 2 (such as: dj, mercenary base, toxic gunner, warden, electroshocker, farm)
 ## slot 5: support 3 (such as: farm, mercenary baes, toxic gunner, warden, electroshocker, farm)
+
+# RECOMMENDED LOAD-OUTS FOR EACH GAMEMODE:
+### fallen: 1. ace pilot 2. gatling gun 3. ranger 4. commander 5. farm
+## why its good:
+### ace pilot:
+- ace pilot is a good early tower game, best for early game
+### gatling gun:
+- gatling gun is the highest dps tower in the game, best for dps (helps with killing bosses and has piercing)
+### ranger:
+- ranger has the range of the whole map while also having good damage, best for sub dps (also helps to kill bosses)
+### commander:
+- boosts gatling gun, ranger and ace pilot for a bigger DPS
+### farm:
+- helps you get lvl 4 ace pilot for hidden detection on wave 10, and helps you max out everything
