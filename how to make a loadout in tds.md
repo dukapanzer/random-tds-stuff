@@ -20,6 +20,10 @@ engineer: 406.4 DPS
 - 358.3 DPS (only if it has "tri-barrel minigun" upgrade, the "upgraded payload" upgrade has 60 DPS
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 728 DPS.
+## 4.5 golden minigunner
+- 280 DPS
+- what to do to make it better:
+- using commander, dj and mercenary base will give it 653.3 DPS.
 ## 5. warden
 - 175.3 DPS
 - what to do to make it better:
@@ -77,5 +81,5 @@ engineer: 406.4 DPS
 # HOW TO MAKE A LOAD-OUT:
 # slot 1: early game (such as brawler, ace pilot or electroshocker)
 # slot 2: dps tower (such as turret, engineer, accelerator, pursuit)
-# slot 3: sub-dps/support 1 (sometimes you need sub-dps in harder gamemodes, such as fallen, if you can win without sub-dps then procceed to get support) (sub-dps can be: ranger, warden, brawler and militant) (support can be: commander, mercenary base, toxic gunner, warden, electroshocker, farm)
+# slot 3: sub-dps/support 1 (sometimes you need sub-dps in harder gamemodes, such as fallen, if you can win without sub-dps then procceed to get support) (sub-dps can be: ranger, warden, brawler, golden minigunner and militant) (support can be: commander, mercenary base, toxic gunner, warden, electroshocker, farm)
 # slot 4: support 2 (such as: dj, mercenary base, toxic gunner, warden, electroshocker, farm)
