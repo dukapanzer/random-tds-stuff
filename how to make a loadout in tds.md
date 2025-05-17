@@ -9,7 +9,7 @@
 - what to do to make it better:
 - using commander, dj and mercenary base will give it 962.5 DPS.
 ## 2. engineer
-engineer: 406.4 DPS
+- engineer: 406.4 DPS
 - what to do to make it better:
 - you can't really do anything to improve this tower, because the sentries cannot be buffed by support towers, but you can support engineer herself.
 ## 3. accelerator
